@@ -1,0 +1,208 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({
+    Name = "para demônios",
+    HidePremium = false,
+    SaveConfig = true,
+    ConfigFolder = "N3nhumhub"
+})
+
+local Tab = Window:MakeTab({
+    Name = "teleportar Demon art",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+    Name = "teleport Demon art"
+})
+
+Tab:AddButton({
+    Name = "Devil's Foot",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-1293, 1753, -1029)
+    end
+})
+
+Tab:AddButton({
+    Name = "FlashStep",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-2832, 1733, -2978)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Swamp",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-875, 1790, -1960)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Arrow",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-658, 1800, -1628)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Gyutaro",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-1474, 1765, -1292)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Akaza",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-1622, 1765, -914)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Temari",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-582, 1930, -1397)
+
+end
+})
+
+Tab:AddButton({
+    Name = "String",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-2869, 1928, -2453)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Hantengu",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(1826, 2105, -616)
+
+end
+})
+
+local Tab = Window:MakeTab({
+	Name = "Outros teleportes",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "Demon quest(Kill slayers)",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-679, 1789, -1613) 
+    end
+})
+
+Tab:AddButton({
+    Name = "zenitsu boss",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(684, 1900, -2364) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Tamayo(Cure to become human)",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-225, 1787, -398) 
+    end
+})
